@@ -6,7 +6,6 @@ baseurl: '' # the subpath of your site, e.g. /blog
 url: 'http://yourdomain.com' # the base hostname & protocol for your site
 
 # Build settings
-markdown:            kramdown
 relative_permalinks: false
 permalink:           :title/
 
@@ -40,3 +39,5 @@ defaults:
 gems:
     - jekyll-feed
     - jekyll-sitemap
+    - jekyll-paginate
+
