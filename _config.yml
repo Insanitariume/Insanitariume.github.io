@@ -1,6 +1,6 @@
 # Site settings
-name: Travelogue
-description: 'A minimal, single-column Jekyll theme that provides an immersive read experience for your readers'
+name: Funcd
+description: 'Random blog'
 
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'http://yourdomain.com' # the base hostname & protocol for your site
@@ -14,9 +14,9 @@ paginate:            8
 paginate_path:       page/:num/
 
 author:
-    name: 'Salvatore Gentile'
+    name: 'Yahia Mansouri'
     email: ''
-    uri: 'https://github.com/SalGnt'
+    uri: 'https://github.com/Insanitariume'
 
 sass:
     sass_dir: _sass
